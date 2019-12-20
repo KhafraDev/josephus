@@ -1,0 +1,22 @@
+{
+  "name": "josephus",
+  "version": "1.0.0",
+  "description": "simple Josephus problem solver",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khafradev/josephus.git"
+  },
+  "keywords": [
+    "josephus"
+  ],
+  "author": "Khafra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khafradev/josephus/issues"
+  },
+  "homepage": "https://github.com/khafradev/josephus#readme"
+}
